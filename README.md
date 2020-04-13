@@ -3,3 +3,5 @@
 Migration para criar o banco de dados SQL Serve first-code
 
 Na parte de mobile fiz com Ionic 5 e Angular 8
+
+Fotos do projeto 
